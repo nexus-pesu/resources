@@ -50,6 +50,7 @@ From beginner level content to really advanced DSA and techniques, these are som
 - [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 - [Linear Algebra and its Applications](http://matematicas.unex.es/~navarro/algebralineal/lax.pdf)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [PDSA using Python by IITM](https://pdsaiitm.github.io/)
 
 #### Watching
 
